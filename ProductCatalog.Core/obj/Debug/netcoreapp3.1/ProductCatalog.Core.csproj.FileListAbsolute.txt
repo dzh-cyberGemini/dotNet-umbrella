@@ -1,0 +1,15 @@
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\bin\Debug\netcoreapp3.1\ProductCatalog.Core.deps.json
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\bin\Debug\netcoreapp3.1\ProductCatalog.Core.dll
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\bin\Debug\netcoreapp3.1\ProductCatalog.Core.pdb
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\bin\Debug\netcoreapp3.1\ProductCatalog.Infrastructure.dll
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\bin\Debug\netcoreapp3.1\ProductCatalog.Infrastructure.pdb
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.csprojAssemblyReference.cache
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.AssemblyInfoInputs.cache
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.AssemblyInfo.cs
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.csproj.CopyComplete
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.dll
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.pdb
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\bin\Debug\netcoreapp3.1\ProductCatalog.Core.runtimeconfig.json
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\bin\Debug\netcoreapp3.1\ProductCatalog.Core.runtimeconfig.dev.json
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.csproj.CoreCompileInputs.cache
+E:\C# Projects\ProductCatalog\ProductCatalog.Core\obj\Debug\netcoreapp3.1\ProductCatalog.Core.genruntimeconfig.cache
